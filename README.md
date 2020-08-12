@@ -17,7 +17,7 @@ functions and describe their differences
   
 ## Introduction
 
-Today you'll worth through 7 JavaScript Tasks to practice today's objectives and get familiar and comfortable with the foundations of JavaScript. 
+Today you'll work through 7 JavaScript Tasks to practice today's objectives and get familiar and comfortable with the foundations of JavaScript. 
 
 Exercises are outlined in the `index.js` file, please read the instructions carefully for each task and complete it. Note that you may have to use your googling skills to research and look things up if you do not have all the information you need to complete the task.
 
@@ -55,11 +55,10 @@ After you have completed the requirements, try any of the following challenges. 
 
 Follow these steps for completing your project.
 
-1. [ ] Submit a pull request to merge `<firstName-lastName>` branch into master. **Please don't merge your own pull request**
-2. [ ] Add your TL as a reviewer on the pull-request
-3. [ ] Your TL will count the project as complete by merging the branch back into master
+1. [x] Submit a pull request to merge `<firstName-lastName>` branch into master. **Please don't merge your own pull request**
+2. [x] Add your TL as a reviewer on the pull-request
+3. [x] Your TL will count the project as complete by merging the branch back into master
 
 ## Resources
 
 🧮 [Polya's 4 Step Approach to Problem Solving](http://web.mnstate.edu/peil/M110/Worksheet/PolyaProblemSolve.pdf)
-
